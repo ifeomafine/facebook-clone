@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 768px) {
+    .base {
+        display: block;
+        /* justify-content: space-around; */
+        width: 100%;
+        margin: 5% 0 0 5%;
+    }
+    .celebrity {
+        padding-left: 15%;
+        color: #000;
+        font-weight: 900;
+        text-decoration: none;
+    }
+
+}

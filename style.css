@@ -23,7 +23,7 @@ body {
 .form {
     background-color: #ffff;
     width: 420px;
-    height: 400px;
+    height: 420px;
     /* margin: 10px; */
     border-radius: 10px;
     box-shadow: 2px 2px 9px rgb(184, 184, 184),
@@ -54,7 +54,7 @@ body {
 .link {
     background-color: rgb(45, 207, 45);
     color: #fff;
-    padding: 15px;
+    padding: 4%;
     font-size: 18px;
     border: 1px solid rgb(184, 184, 184);
     border-radius: 5px;
